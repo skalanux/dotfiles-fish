@@ -6,4 +6,3 @@ set -gx OMF_PATH "/home/ska/.local/share/omf"
 
 # Load oh-my-fish configuration.
 source $OMF_PATH/init.fish
-

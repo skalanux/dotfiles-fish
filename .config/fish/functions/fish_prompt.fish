@@ -1,1 +1,1 @@
-/home/juanms/.local/share/omf/themes/devecoop/fish_prompt.fish
+/home/ska/.local/share/omf/themes/devecoop/fish_prompt.fish
