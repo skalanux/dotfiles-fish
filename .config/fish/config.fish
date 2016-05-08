@@ -5,4 +5,6 @@ set -gx OMF_PATH "/home/ska/.local/share/omf"
 #set -gx OMF_CONFIG "/home/ska/.config/omf"
 
 # Load oh-my-fish configuration.
+alias vim=nvim
+alias vi=nvim
 source $OMF_PATH/init.fish
